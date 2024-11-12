@@ -58,7 +58,9 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: >-
+      „Ottargo.pl – Przeglądaj profile wykonawców, zobacz realizacje, poznaj
+      opinie i znajdź najlepszego specjalistę do swojego projektu!”
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
