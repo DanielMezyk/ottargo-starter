@@ -2,19 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: RecentPostsSection
     title:
       type: TitleBlock
