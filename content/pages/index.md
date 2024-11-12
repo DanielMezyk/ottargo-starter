@@ -19,7 +19,6 @@ sections:
     subtitle: 'Ottargo.pl – Ogłaszaj projekty, targuj warunki, wykonuj z najlepszymi'
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
