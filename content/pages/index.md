@@ -41,7 +41,7 @@ sections:
         elementId: ''
     elementId: ''
     motion: static
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         margin:
