@@ -16,7 +16,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - type: ImageGallerySection
-    subtitle: 'Ottargo.pl – Ogłaszaj projekty, targuj warunki, wykonuj z najlepszymi'
+    subtitle: 'Ottargo.pl – Ogłaszaj, targuj warunki, wykonuj z najlepszymi'
     images:
       - type: ImageBlock
         altText: Empathy logo
