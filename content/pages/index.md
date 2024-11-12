@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: |
-      Ogłaszaj - Targuj - Wykonaj
+      <div style="text-align: center">Ogłaszaj - Targuj - Wykonaj</div>
     actions: []
     media:
       url: /images/Logo Ottargo.jpg
