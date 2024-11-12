@@ -10,7 +10,7 @@ sections:
     actions: []
     media:
       url: /images/Logo Ottargo.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: cededed
       elementId: ''
       type: ImageBlock
     elementId: ''
