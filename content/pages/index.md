@@ -24,10 +24,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-primary
   - type: RecentPostsSection
     title:
       type: TitleBlock
