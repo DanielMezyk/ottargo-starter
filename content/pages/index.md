@@ -4,30 +4,21 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: ''
-    text: |+
-      <div style="text-align: center"></div>
-
+    text: ''
     actions: []
     media:
-      url: /images/Logo Ottargo.jpg
-      altText: cededed
-      elementId: ''
       type: ImageBlock
-    elementId: ''
+      url: /images/Logo Ottargo.jpg
+      altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+        flexDirection: row-reverse
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Ogłaszaj Targuj Wykonuj
+      text: 'Ottargo.pl – Ogłaszaj projekty, targuj warunki, wykonuj z najlepszymi'
       color: text-dark
       styles:
         self:
