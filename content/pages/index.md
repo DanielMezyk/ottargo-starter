@@ -15,27 +15,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: 'Ottargo.pl – Ogłaszaj projekty, targuj warunki, wykonuj z najlepszymi'
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: false
-    showExcerpt: false
-    showDate: false
-    showAuthor: false
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        justifyContent: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
