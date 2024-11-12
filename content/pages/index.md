@@ -4,8 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: ''
-    text: |
-      <div style="text-align: center">Ogłaszaj - Targuj - Wykonaj</div>
+    text: |+
+      <div style="text-align: center"></div>
+
     actions: []
     media:
       url: /images/Logo Ottargo.jpg
