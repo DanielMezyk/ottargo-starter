@@ -18,7 +18,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Ogłaszaj Targuj Wykonuj
+      text: ogłaszaj targuj wykonuj
       color: text-dark
       styles:
         self:
