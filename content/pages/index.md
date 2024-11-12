@@ -16,7 +16,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: 'Ottargo.pl – Ogłaszaj projekty, targuj warunki, wykonuj z najlepszymi'
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
