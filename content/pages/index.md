@@ -103,7 +103,9 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: >-
+        „Ottargo.pl – Pokaż swoje projekty, zdobywaj zaufanie klientów, wyróżnij
+        się jako ekspert!”
       color: text-dark
 seo:
   metaTitle: Home - Demo site
