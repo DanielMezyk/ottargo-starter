@@ -1,5 +1,5 @@
 ---
-title: 5 Tips for Starting a Startup
+title: ''
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
@@ -25,7 +25,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
-author: content/data/person6.json
 type: PostLayout
 ---
 

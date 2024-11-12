@@ -4,11 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: ''
-    text: ''
+    text: |+
+      <div style="text-align: center"></div>
+
     actions: []
     media:
       url: /images/Logo Ottargo.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: cededed
       elementId: ''
       type: ImageBlock
     elementId: ''
@@ -22,10 +24,27 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: ''
-      color: text-primary
+      text: Ogłaszaj Targuj Wykonuj
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: false
+    showExcerpt: false
+    showDate: false
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        justifyContent: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.

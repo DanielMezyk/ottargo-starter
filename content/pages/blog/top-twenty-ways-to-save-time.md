@@ -1,5 +1,5 @@
 ---
-title: Top 20 Ways to Save Time at Work This Year
+title: ''
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
@@ -20,7 +20,6 @@ seo:
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
-author: content/data/person4.json
 styles:
   self:
     flexDirection: col

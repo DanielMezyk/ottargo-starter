@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: ''
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
@@ -20,7 +20,6 @@ seo:
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
-author: content/data/person2.json
 styles:
   self:
     flexDirection: col
