@@ -27,7 +27,7 @@ sections:
           - pr-16
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: ''
       color: text-primary
   - title: Divider
     colors: bg-light-fg-dark
