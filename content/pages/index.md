@@ -38,8 +38,8 @@ sections:
           textAlign: center
     recentCount: 3
     showThumbnail: false
-    showExcerpt: true
-    showDate: true
+    showExcerpt: false
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
