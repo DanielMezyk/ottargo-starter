@@ -27,6 +27,7 @@ sections:
       - type: ImageBlock
         altText: Vise logo
         elementId: ''
+        url: /images/Logo Ottargo.jpg
       - type: ImageBlock
         altText: Telus logo
         elementId: ''
