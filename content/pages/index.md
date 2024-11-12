@@ -63,7 +63,6 @@ sections:
       opinie i znajdź najlepszego specjalistę do swojego projektu!”
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
