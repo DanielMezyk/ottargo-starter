@@ -60,9 +60,7 @@ sections:
   - type: ImageGallerySection
     subtitle: >-
       Ottargo.pl – Przeglądaj profile wykonawców, zobacz realizacje, poznaj
-      opinie i znajdź najlepszego specjalistę do swojego projektu„Ottargo.pl –
-      Pokaż swoje projekty, zdobywaj zaufanie klientów, wyróżnij się jako
-      ekspert!”
+      opinie i znajdź najlepszego specjalistę do swojego projektu
     images:
       - type: ImageBlock
         altText: Empathy logo
