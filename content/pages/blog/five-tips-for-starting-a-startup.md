@@ -25,7 +25,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
-author: content/data/person6.json
 type: PostLayout
 ---
 
