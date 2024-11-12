@@ -101,12 +101,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: >-
-        Ottargo.pl – Pokaż swoje projekty, zdobywaj zaufanie klientów, wyróżnij
-        się jako wykonawca
-      color: text-primary
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
