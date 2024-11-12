@@ -8,7 +8,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Logo Ottargo.jpg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
