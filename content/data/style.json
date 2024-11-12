@@ -31,11 +31,11 @@
         "type": "ThemeStyleHeading"
     },
     "h4": {
-        "size": "2xl",
+        "size": "xs",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "tighter",
         "type": "ThemeStyleHeading"
     },
     "h5": {
