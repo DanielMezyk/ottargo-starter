@@ -15,27 +15,48 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: 'Ottargo.pl – Ogłaszaj projekty, targuj warunki, wykonuj z najlepszymi'
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 3
-    showThumbnail: false
-    showExcerpt: false
-    showDate: false
-    showAuthor: false
-    actions: []
+  - type: ImageGallerySection
+    subtitle: 'Ottargo.pl – Ogłaszaj projekty, targuj warunki, wykonuj z najlepszymi'
+    images:
+      - type: ImageBlock
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Rangle logo
+        elementId: ''
     elementId: ''
-    variant: three-col-grid
+    motion: static
     colors: bg-light-fg-dark
-    hoverEffect: thin-underline
     styles:
       self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
