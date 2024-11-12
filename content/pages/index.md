@@ -106,7 +106,7 @@ sections:
       label: >-
         Ottargo.pl – Pokaż swoje projekty, zdobywaj zaufanie klientów, wyróżnij
         się jako wykonawca
-      color: text-primary
+      color: text-dark
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
