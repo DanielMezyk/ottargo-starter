@@ -2,28 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    subtitle: ''
-    text: |+
-      <div style="text-align: center"></div>
-
-    actions: []
-    media:
-      url: /images/Logo Ottargo.jpg
-      altText: cededed
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: RecentPostsSection
     title:
       type: TitleBlock
