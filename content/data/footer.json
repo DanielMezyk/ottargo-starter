@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "Ottargo.pl\n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Powered by Ottargo.pl\n",
     "colors": "bg-dark-fg-light",
