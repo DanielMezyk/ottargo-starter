@@ -3,10 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Business Consulting
-      color: text-dark
     subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
