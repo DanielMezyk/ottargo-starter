@@ -18,7 +18,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Ogłaszaj Targuj Wykonuj
+      text: 'Ottargo.pl – Ogłaszaj projekty, targuj warunki, wykonuj z najlepszymi'
       color: text-dark
       styles:
         self:
