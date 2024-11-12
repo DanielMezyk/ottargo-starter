@@ -4,7 +4,8 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: ''
-    text: ''
+    text: |
+      Ogłaszaj - Targuj - Wykonaj
     actions: []
     media:
       url: /images/Logo Ottargo.jpg
