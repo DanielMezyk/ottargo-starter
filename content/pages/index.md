@@ -36,7 +36,7 @@ sections:
       styles:
         self:
           textAlign: center
-    recentCount: 3
+    recentCount: 0
     showThumbnail: false
     showExcerpt: false
     showDate: false
